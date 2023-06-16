@@ -1,0 +1,5 @@
+dependencies {
+    testImplementation project(':api')
+    testImplementation project(':web')
+}
+
